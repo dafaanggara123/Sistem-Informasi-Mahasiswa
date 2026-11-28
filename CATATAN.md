@@ -1,3 +1,5 @@
 # Catatan Diskusi Tim
 
-Dokumen hasil diskusi tim.
+Nama : Dafa Anggara Wibowo
+NIM : G.231.23.0153
+Praktikum VCS
